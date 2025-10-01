@@ -230,14 +230,14 @@ export default function Contact() {
 
               {/* Quick Contact Options */}
               <div className="mt-8 grid grid-cols-2 gap-4">
-                <Button
-                  variant="outline"
-                  className="border-[var(--yellow-primary)] text-[var(--yellow-primary)] hover:bg-[var(--yellow-primary)] hover:text-black"
-                  size="lg"
+                <a
+                  href="tel:7372001122"
+                  className="inline-flex items-center justify-center border-[var(--yellow-primary)] text-[var(--yellow-primary)] hover:bg-[var(--yellow-primary)] hover:text-black border rounded-lg px-4 py-2 text-lg font-medium transition-colors duration-200"
+                  style={{ textDecoration: 'none' }}
                 >
                   <Phone className="w-4 h-4 mr-2" />
                   Call Now
-                </Button>
+                </a>
                 <Button
                   variant="outline"
                   className="border-[var(--yellow-primary)] text-[var(--yellow-primary)] hover:bg-[var(--yellow-primary)] hover:text-black"
