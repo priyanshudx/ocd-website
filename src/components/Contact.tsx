@@ -120,7 +120,7 @@ export default function Contact() {
             <div className="bg-gray-100 rounded-2xl overflow-hidden h-64 flex items-center justify-center">
               <iframe
                 title="Obsessed Car Detailings Location"
-                src="https://www.google.com/maps/place/Obsessed+Car+Detailing/@23.6389846,86.1270904,21z/data=!4m7!3m6!1s0x39f423006f3ef403:0x7652c55cbf1f7163!4b1!8m2!3d23.6390034!4d86.1272721!16s%2Fg%2F11vz11kbbz?entry=ttu&g_ep=EgoyMDI1MDkyOC4wIKXMDSoASAFQAw%3D%3D"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3640.4568633450247!2d86.12709040000001!3d23.639003400000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f423006f3ef403%3A0x7652c55cbf1f7163!2sObsessed%20Car%20Detailing!5e0!3m2!1sen!2sin!4v1735223400000"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}

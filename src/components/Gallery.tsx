@@ -87,3 +87,4 @@ export default function Gallery() {
     </section>
   );
 }
+import { CheckCircle } from "lucide-react"; 
